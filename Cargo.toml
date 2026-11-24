@@ -10,7 +10,7 @@ members = [
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-authors = ["Kevin Fairley <205349973+kfairy9999@users.noreply.github.com>"]
+authors = ["Kevin Fairley <205349973+kfairley9999@users.noreply.github.com>"]
 
 [profile.release]
 lto = "thin"
